@@ -1,0 +1,43 @@
+body {    
+    font: 20px sans-serif;
+    color: rgb(223, 37, 30);
+}
+
+
+.navbar {
+    background-color: rgb(212, 68, 205);    
+}
+
+
+.quemsomos {
+    background-color: rgb(98, 108, 248);  
+    color: #ffffff; 
+}
+
+
+.parceiros{
+    background-color: rgb(83, 87, 39);  
+    color: #ffffff; 
+
+}
+
+.servicos{
+    background-color: #116268 ;
+    color: #fff
+}
+
+.margin {       
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.rouded-circle {
+    border-radius: 50% !important;
+}
+
+.bg-footer {
+    background-color:  #900C3F;
+    color: rgb(255, 254, 236);
+}
+
+
